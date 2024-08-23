@@ -1,0 +1,32 @@
+.admPage {
+    padding: 20px;
+  }
+  
+  .userTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .userTable th, .userTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .userTable th {
+    background-color: #f4f4f4;
+  }
+  
+  .updateForm {
+    margin-top: 20px;
+  }
+  
+  .updateForm label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .updateForm input {
+    margin-left: 10px;
+  }
+  

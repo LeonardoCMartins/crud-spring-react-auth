@@ -1,0 +1,32 @@
+
+
+.accept{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.accept input{
+    margin-right: 5px;
+}
+
+
+.foot p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3px;
+    font-size: 0.9rem;
+    
+}
+
+.foot a {
+    margin-left: 3px;
+}
+
+.errorMessage {
+    color: red;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+  }
+  

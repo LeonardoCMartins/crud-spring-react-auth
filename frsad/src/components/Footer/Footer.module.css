@@ -1,0 +1,13 @@
+.forgotPasswordLink {
+    display: flex;
+    justify-content: center;
+    font-size: medium;
+}
+
+.createAccountLink {
+    margin-top: 15px;
+}
+
+.createAccountLink a {
+    margin-left: 5px;
+}

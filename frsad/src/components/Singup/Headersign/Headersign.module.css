@@ -1,0 +1,18 @@
+.apres{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.apres h3 {
+    font-size: 30px;
+    display: flex;
+    justify-content: start;
+}
+
+.apres p {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
